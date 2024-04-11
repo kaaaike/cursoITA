@@ -3,8 +3,8 @@ package org.paciente;
 public class Principal {
     public static void main(String[] args) {
 
-        Paciente p1 = new Paciente(70, 1.73);
-        Paciente p2 = new Paciente(90, 1.59);
+        Paciente p1 = new Paciente(74, 1.73);
+        Paciente p2 = new Paciente(85, 1.59);
         Paciente p3 = new Paciente(130, 2.00);
 
         System.out.println("Paciente 1:");
